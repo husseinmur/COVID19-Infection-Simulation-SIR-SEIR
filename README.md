@@ -1,4 +1,4 @@
-# covid19_infection_simulation
+# COVID-19 Infection Simulation
 Simulating COVID-19 infections using a basic and a developed SIR models
 An enhancement of the SIR model where I is divided into two groups:
 - Symptomatic individuals
